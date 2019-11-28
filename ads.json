@@ -1,0 +1,189 @@
+{
+  "data": {
+    "slider": [
+      {
+        "id": "40930666873",
+        "title": "Health Go",
+        "app_id": "com.health.fitness.stepcounter",
+        "description": "Your health in your hands.",
+        "url_m": "https://live.staticflickr.com/65535/40930666873_362601c9a0.jpg",
+        "rating": "4.6"
+      },
+      {
+        "id": "40930660413",
+        "title": "Video Player",
+        "app_id": "com.videoplayer.xplayer",
+        "description": "It's a Mega Video Player, Media Player S. so download video player pro offline",
+        "url_m": "https://live.staticflickr.com/65535/40930660413_1b2b1c910a.jpg",
+        "rating": "4.7"
+      },
+      {
+        "id": "47897122311",
+        "title": "Cut Out - PhotoEditor",
+        "app_id": "com.cut.out.photo.background.editor",
+        "description": "Photo cut out is the best cut out and professional photo editor",
+        "url_m": "https://live.staticflickr.com/65535/47897122311_203f2b1e02.jpg",
+        "rating": "4.8"
+      },
+      {
+        "id": "47897122181",
+        "title": "Daily Reminder",
+        "app_id": "com.daily.reminder.daily.planner",
+        "description": "Now get accurate with To do list and calendar chore planner! Daily Reminder",
+        "url_m": "https://live.staticflickr.com/65535/47897122181_1944a07f7c.jpg",
+        "rating": "4.6"
+      }
+    ],
+    "apps": [
+      {
+        "id": "47078507804",
+        "title": "Ram Booster Go",
+        "app_id": "com.booster.ram.cleaner",
+        "description": "Remove pre-installed apps to save space and boost performance",
+        "url_m": "https://live.staticflickr.com/65535/47078507804_8f3235b596.jpg"
+      },
+      {
+        "id": "47868006931",
+        "title": "Water Drinking Reminder",
+        "app_id": "com.drink.water.drinkwaterreminder",
+        "description": "Water Reminder - reminds you to drink water timely!",
+        "url_m": "https://live.staticflickr.com/65535/47868006931_c9745844be.jpg"
+      },
+      {
+        "id": "32923801937",
+        "title": "Music Player for Galaxy",
+        "app_id": "com.online.music.mp3.musicplayer",
+        "description": "S9 Music Player is the best streaming music app for android, top musical genres.",
+        "url_m": "https://live.staticflickr.com/65535/32923801937_e211d5de35.jpg"
+      },
+      {
+        "id": "33990655908",
+        "title": "Photo Collage",
+        "app_id": "com.photo.editor.pro.pic.frame",
+        "description": "Photo Collage-Photo Editor lets you create collage photos",
+        "url_m": "https://live.staticflickr.com/65535/33990655908_26e74d6099.jpg"
+      },
+      {
+        "id": "33990656048",
+        "title": "Messages",
+        "app_id": "com.messaging.textrasms.manager",
+        "description": "SMS Messages is an instant messaging app for android. Its a great Messaging app.",
+        "url_m": "https://live.staticflickr.com/65535/33990656048_c76d1c8574.jpg"
+      },
+      {
+        "id": "32923802637",
+        "title": "Love Wallpaper",
+        "app_id": "com.iloveyou.lovewallpapers",
+        "description": "Love HD Wallpapers is specially made for beautiful Love wallpapers.",
+        "url_m": "https://live.staticflickr.com/65535/32923802637_371224d849.jpg"
+      },
+      {
+        "id": "32923802717",
+        "title": "Love Message",
+        "app_id": "com.love.romantic.messages.stickers",
+        "description": "The Best Romantic Love Messages is a lovely application for love messages.",
+        "url_m": "https://live.staticflickr.com/65535/32923802717_a009fece62.jpg"
+      },
+      {
+        "id": "33990656878",
+        "title": "Beauty Mirror",
+        "app_id": "com.live.beauty.mymirror",
+        "description": "Turn your phone into the best pocket mirror.",
+        "url_m": "https://live.staticflickr.com/65535/33990656878_19bbcaefca.jpg"
+      },
+      {
+        "id": "32923802897",
+        "title": "HD Camera",
+        "app_id": "com.photo.maker.hd.camera",
+        "description": "Professional HD Camera Pro is a best fully professional featured free Camera app.",
+        "url_m": "https://live.staticflickr.com/65535/32923802897_e16cded1ff.jpg"
+      },
+      {
+        "id": "33990657048",
+        "title": "Gallery",
+        "app_id": "com.photo.gallery.photo.albums",
+        "description": "Gallery is the best android galaxy app for image &amp; video viewing.",
+        "url_m": "https://live.staticflickr.com/65535/33990657048_74233883dc.jpg"
+      },
+      {
+        "id": "47868008591",
+        "title": "English Grammer",
+        "app_id": "com.indian.english.grammer",
+        "description": "Learn English with English Grammer.",
+        "url_m": "https://live.staticflickr.com/65535/47868008591_21a31ac523.jpg"
+      },
+      {
+        "id": "47868008731",
+        "title": "S8 Notes Download",
+        "app_id": "com.s8notesdownloadpro.app",
+        "description": "Use Notes to capture a quick thought, create checklists, sketch ideas, and more.",
+        "url_m": "https://live.staticflickr.com/65535/47868008731_91459278a2.jpg"
+      }
+    ],
+    "games": [
+      {
+        "id": "47078507734",
+        "title": "Blast the Cubes",
+        "app_id": "com.toy.crush.king.master",
+        "description": "Welcome to the bedazzling world of Cube Blast Puzzle Game",
+        "url_m": "https://live.staticflickr.com/65535/47078507734_d865970e70.jpg"
+      },
+      {
+        "id": "47868006821",
+        "title": "Word Stack",
+        "app_id": "com.word.attack.word.swipe",
+        "description": "Best Word Attack search puzzle",
+        "url_m": "https://live.staticflickr.com/65535/47868006821_f3acac3f35.jpg"
+      },
+      {
+        "id": "47078507864",
+        "title": "Space Shooter",
+        "app_id": "com.space.shooter.galaxy.attack",
+        "description": "Space Shooting Games Free and Aliensshooter Spaceship Game",
+        "url_m": "https://live.staticflickr.com/65535/47078507864_830eff2c6d.jpg"
+      },
+      {
+        "id": "47868007151",
+        "title": "Smart Glass",
+        "app_id": "com.smart.glass.draw.line",
+        "description": "Draw lines is a basic physics game.",
+        "url_m": "https://live.staticflickr.com/65535/47868007151_662651e07e.jpg"
+      },
+      {
+        "id": "33990655728",
+        "title": "Slideshow Maker",
+        "app_id": "com.music.video.maker",
+        "description": "Best Video Editor App on Android is Slideshow - Video Status Maker for MV Master.",
+        "url_m": "https://live.staticflickr.com/65535/33990655728_2e5a485d2d.jpg"
+      },
+      {
+        "id": "47868007241",
+        "title": "Puzzle Express",
+        "app_id": "com.fast.express.train.block.puzzle",
+        "description": "Puzzle Express - Play free Puzzle Express game online.",
+        "url_m": "https://live.staticflickr.com/65535/47868007241_1a48474fcb.jpg"
+      },
+      {
+        "id": "33990656518",
+        "title": "Magic Diamond",
+        "app_id": "com.magic.diamond.dash",
+        "description": "Bedazzling world of Magic Diamond matching games.",
+        "url_m": "https://live.staticflickr.com/65535/33990656518_0c8822eba0.jpg"
+      },
+      {
+        "id": "47815756632",
+        "title": "Candy Bomb Blast",
+        "app_id": "com.candybomb.blast",
+        "description": "Candy Bomb Blast donut match 3 games new for free now.",
+        "url_m": "https://live.staticflickr.com/65535/47815756632_f0d05c55f3.jpg"
+      },
+      {
+        "id": "33990657248",
+        "title": "Bow And Arrow",
+        "app_id": "com.balloons.bow.game",
+        "description": "Pop Balloons with bow &amp; arrow game.",
+        "url_m": "https://live.staticflickr.com/65535/33990657248_83e26c5b2a.jpg"
+      }
+    ]
+  }
+}
