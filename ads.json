@@ -54,7 +54,7 @@
         "title": "Music Player for Galaxy",
         "app_id": "com.online.music.mp3.musicplayer",
         "description": "S9 Music Player is the best streaming music app for android, top musical genres.",
-        "url_m": "https://live.staticflickr.com/65535/32923801937_e211d5de35.jpg"
+        "url_m": "https://live.staticflickr.com/65535/49658307662_5e9ddc87ea.jpg"
       },
       {
         "id": "33990655908",
@@ -62,27 +62,6 @@
         "app_id": "com.photo.editor.pro.pic.frame",
         "description": "Photo Collage-Photo Editor lets you create collage photos",
         "url_m": "https://live.staticflickr.com/65535/33990655908_26e74d6099.jpg"
-      },
-      {
-        "id": "33990656048",
-        "title": "Messages",
-        "app_id": "com.messaging.textrasms.manager",
-        "description": "SMS Messages is an instant messaging app for android. Its a great Messaging app.",
-        "url_m": "https://live.staticflickr.com/65535/33990656048_c76d1c8574.jpg"
-      },
-      {
-        "id": "32923802637",
-        "title": "Love Wallpaper",
-        "app_id": "com.iloveyou.lovewallpapers",
-        "description": "Love HD Wallpapers is specially made for beautiful Love wallpapers.",
-        "url_m": "https://live.staticflickr.com/65535/32923802637_371224d849.jpg"
-      },
-      {
-        "id": "32923802717",
-        "title": "Love Message",
-        "app_id": "com.love.romantic.messages.stickers",
-        "description": "The Best Romantic Love Messages is a lovely application for love messages.",
-        "url_m": "https://live.staticflickr.com/65535/32923802717_a009fece62.jpg"
       },
       {
         "id": "33990656878",
@@ -106,18 +85,40 @@
         "url_m": "https://live.staticflickr.com/65535/33990657048_74233883dc.jpg"
       },
       {
-        "id": "47868008591",
-        "title": "English Grammer",
-        "app_id": "com.indian.english.grammer",
-        "description": "Learn English with English Grammer.",
-        "url_m": "https://live.staticflickr.com/65535/47868008591_21a31ac523.jpg"
+        "id": "49657504403",
+        "title": "Flirty Dirty Emoji",
+        "app_id": "com.emojipedia.collection",
+        "description": "Flirty Dirty Emoji -Funny Emoji Stickers, Cool & Cute Emojis for Android!",
+        "url_m": "https://live.staticflickr.com/65535/49657504403_00a469a973.jpg"
       },
       {
-        "id": "47868008731",
-        "title": "S8 Notes Download",
-        "app_id": "com.s8notesdownloadpro.app",
-        "description": "Use Notes to capture a quick thought, create checklists, sketch ideas, and more.",
-        "url_m": "https://live.staticflickr.com/65535/47868008731_91459278a2.jpg"
+        "id": "49657491858",
+        "title": "Free Video Maker",
+        "app_id": "com.xstudio.videoeditor.videomaker.fx",
+        "description": "Free Video Editor is designed for anyone who wants to easily share sentiments through videos",
+        "url_m": "https://live.staticflickr.com/65535/49657491858_d80667bc53.jpg"
+      },
+      {
+        "id": "49658307537",
+        "title": "Recover Deleted Messages",
+        "app_id": "com.messagebackup.recover.deleted.message",
+        "description": "Whatsapp Recovery is one of the best SMS Recovery App which provide you the function to restore or undelete messages",
+        "url_m": "https://live.staticflickr.com/65535/49658307537_48868b6835.jpg"
+      },
+      {
+        "id": "49657491878",
+        "title": "Zip, unzip & RAR File Extractor",
+        "app_id": "com.zipunzipfile.zipopener.zipfileextractor",
+        "description": "WinZip is the leading application, along with WinRar, in the world of file compressors",
+        "url_m": "https://live.staticflickr.com/65535/49657491878_3f2bbdedb9.jpg"
+      },
+      {
+        "id": "49658307702",
+        "title": "Period Tracker for Women",
+        "app_id": "com.periodcycle.monthtracker.monthcalendar",
+        "description": "Plan for your next vacation, or just next week with our simple Period Calculator!",
+        "url_m": "https://live.staticflickr.com/65535/49658307702_4f9e04e4f6.jpg",
+        "rating": "4.6"
       }
     ],
     "games": [
