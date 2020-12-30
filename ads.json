@@ -3,187 +3,174 @@
     "slider": [
       {
         "id": "40930666873",
-        "title": "Health Go",
-        "app_id": "com.health.fitness.stepcounter",
-        "description": "Your health in your hands.",
-        "url_m": "https://raw.githubusercontent.com/kalpeshpadshala/ads_icon/master/com.health.fitness.stepcounter.jpg",
+        "title": "Edit on PDF",
+        "app_id": "com.amazing.messangerlock",
+        "description": "Edit on PDF Convert and create PDF from various types of files.",
+        "url_m": "https://jkcdns.sgp1.cdn.digitaloceanspaces.com/static/gallery_ads/icon/com.amazing.messangerlock.png",
         "rating": "4.6"
       },
       {
         "id": "40930660413",
-        "title": "Video Player",
-        "app_id": "com.videoplayer.xplayer",
-        "description": "It's a Mega Video Player, Media Player S. so download video player pro offline",
-        "url_m": "https://raw.githubusercontent.com/kalpeshpadshala/ads_icon/master/com.videoplayer.xplayer.jpg",
+        "title": "Messages",
+        "app_id": "com.messagesgo.messanger",
+        "description": "Messages Text from your phone – a completely new messaging experience.",
+        "url_m": "https://jkcdns.sgp1.cdn.digitaloceanspaces.com/static/gallery_ads/icon/com.messagesgo.messanger.png",
         "rating": "4.7"
       },
       {
         "id": "47897122311",
-        "title": "Cut Out - PhotoEditor",
-        "app_id": "com.cut.out.photo.background.editor",
-        "description": "Photo cut out is the best cut out and professional photo editor",
-        "url_m": "https://raw.githubusercontent.com/kalpeshpadshala/ads_icon/master/com.cut.out.photo.background.editor.png",
+        "title": "My Files",
+        "app_id": "com.manager.filemanager",
+        "description": "My Files manages all the files on your smartphone, just like a file explorer on your computer.",
+        "url_m": "https://jkcdns.sgp1.cdn.digitaloceanspaces.com/static/gallery_ads/icon/com.manager.filemanager.png",
         "rating": "4.8"
       },
       {
         "id": "47897122181",
-        "title": "Daily Reminder",
-        "app_id": "com.daily.reminder.daily.planner",
-        "description": "Now get accurate with To do list and calendar chore planner! Daily Reminder",
-        "url_m": "https://raw.githubusercontent.com/kalpeshpadshala/ads_icon/master/com.daily.reminder.daily.planner.png",
+        "title": "S8 Notes Download",
+        "app_id": "com.s8notesdownloadpro.app",
+        "description": "Use Notes to capture a quick thought, create checklists, sketch ideas, and more.",
+        "url_m": "https://jkcdns.sgp1.cdn.digitaloceanspaces.com/static/gallery_ads/icon/com.s8notesdownloadpro.app.png",
+        "rating": "4.6"
+      },
+      {
+        "id": "47897122181",
+        "title": "Password manager",
+        "app_id": "com.my.password.manager",
+        "description": "one password app for android is the world's best and most downloaded password manager",
+        "url_m": "https://jkcdns.sgp1.cdn.digitaloceanspaces.com/static/gallery_ads/icon/com.my.password.manager.png",
         "rating": "4.6"
       }
     ],
     "apps": [
       {
         "id": "47078507804",
-        "title": "Ram Booster Go",
-        "app_id": "com.booster.ram.cleaner",
-        "description": "Remove pre-installed apps to save space and boost performance",
-        "url_m": "https://raw.githubusercontent.com/kalpeshpadshala/ads_icon/master/com.booster.ram.cleaner.jpg"
+        "title": "Professional HD Camera Pro",
+        "app_id": "com.photo.maker.hd.camera",
+        "description": "Professional HD Camera Pro is a best fully professional featured free Camera app",
+        "url_m": "https://jkcdns.sgp1.cdn.digitaloceanspaces.com/static/gallery_ads/icon/com.photo.maker.hd.camera.png"
       },
       {
         "id": "47868006931",
-        "title": "Water Drinking Reminder",
-        "app_id": "com.drink.water.drinkwaterreminder",
-        "description": "Water Reminder - reminds you to drink water timely!",
-        "url_m": "https://raw.githubusercontent.com/kalpeshpadshala/ads_icon/master/com.drink.water.drinkwaterreminder.jpg"
+        "title": "Password manager",
+        "app_id": "com.my.password.manager",
+        "description": "one password app for android is the world's best and most downloaded password manager",
+        "url_m": "https://jkcdns.sgp1.cdn.digitaloceanspaces.com/static/gallery_ads/icon/com.my.password.manager.png"
       },
       {
         "id": "32923801937",
-        "title": "Music Player for Galaxy",
-        "app_id": "com.online.music.mp3.musicplayer",
-        "description": "S9 Music Player is the best streaming music app for android, top musical genres.",
-        "url_m": "https://raw.githubusercontent.com/kalpeshpadshala/ads_icon/master/com.online.music.mp3.musicplayer.png"
+        "title": "Applock",
+        "app_id": "com.applock.fingerprint.applockforall.privacy",
+        "description": "Applock can lock Facebook, WhatsApp, Gallery, Messenger, Snapchat, Instagram, SMS, Contacts and any app you choose.",
+        "url_m": "https://jkcdns.sgp1.cdn.digitaloceanspaces.com/static/gallery_ads/icon/com.applock.fingerprint.applockforall.privacy.png"
       },
       {
         "id": "33990655908",
-        "title": "Photo Collage",
-        "app_id": "com.photo.editor.pro.pic.frame",
-        "description": "Photo Collage-Photo Editor lets you create collage photos",
-        "url_m": "https://raw.githubusercontent.com/kalpeshpadshala/ads_icon/master/com.photo.editor.pro.pic.frame.png"
+        "title": "Gallery",
+        "app_id": "com.photo.gallery.photo.albums",
+        "description": "Gallery is the best android galaxy app for image & video viewing that works for Galaxy users.",
+        "url_m": "https://jkcdns.sgp1.cdn.digitaloceanspaces.com/static/gallery_ads/icon/com.photo.gallery.photo.albums.jpg"
       },
       {
         "id": "33990656878",
-        "title": "Beauty Mirror",
-        "app_id": "com.live.beauty.mymirror",
-        "description": "Turn your phone into the best pocket mirror.",
-        "url_m": "https://raw.githubusercontent.com/kalpeshpadshala/ads_icon/master/com.live.beauty.mymirror.jpg"
+        "title": "Music Video Maker - Slideshow",
+        "app_id": "com.music.video.maker",
+        "description": "Best Video Editor App on Android is Slideshow - Video Status Maker for MV Master.",
+        "url_m": "https://jkcdns.sgp1.cdn.digitaloceanspaces.com/static/gallery_ads/icon/com.music.video.maker.png"
       },
       {
         "id": "32923802897",
-        "title": "HD Camera",
-        "app_id": "com.photo.maker.hd.camera",
-        "description": "Professional HD Camera Pro is a best fully professional featured free Camera app.",
-        "url_m": "https://raw.githubusercontent.com/kalpeshpadshala/ads_icon/master/com.photo.maker.hd.camera.png"
+        "title": "Account Balance Check",
+        "app_id": "com.balancecheck.allbankbalanceinquiry.balancechecker",
+        "description": "Check Balance: Bank Account Balance Check.",
+        "url_m": "https://jkcdns.sgp1.cdn.digitaloceanspaces.com/static/gallery_ads/icon/com.balancecheck.allbankbalanceinquiry.balancechecker.png"
       },
       {
         "id": "33990657048",
-        "title": "Gallery",
-        "app_id": "com.photo.gallery.photo.albums",
-        "description": "Gallery is the best android galaxy app for image &amp; video viewing.",
-        "url_m": "https://raw.githubusercontent.com/kalpeshpadshala/ads_icon/master/com.photo.gallery.photo.albums.jpg"
+        "title": "Contacts",
+        "app_id": "com.universal.mycontacts",
+        "description": "A contact manager is a android app program that enables users to easily store and find contact information.",
+        "url_m": "https://jkcdns.sgp1.cdn.digitaloceanspaces.com/static/gallery_ads/icon/com.universal.mycontacts.png"
       },
       {
         "id": "49657504403",
-        "title": "Flirty Dirty Emoji",
-        "app_id": "com.emojipedia.collection",
-        "description": "Flirty Dirty Emoji -Funny Emoji Stickers, Cool & Cute Emojis for Android!",
-        "url_m": "https://raw.githubusercontent.com/kalpeshpadshala/ads_icon/master/com.emojipedia.collection.jpg"
+        "title": "S10 Music Player - Music Player for S10 Galaxy",
+        "app_id": "com.online.music.mp3.musicplayer",
+        "description": "S10 Music Player - Music Player for S10 Galaxy is the best music player for Android with the perfect equalizer.",
+        "url_m": "https://jkcdns.sgp1.cdn.digitaloceanspaces.com/static/gallery_ads/icon/com.online.music.mp3.musicplayer.png"
       },
       {
         "id": "49657491858",
-        "title": "Free Video Maker",
-        "app_id": "com.xstudio.videoeditor.videomaker.fx",
-        "description": "Free Video Editor is designed for anyone who wants to easily share sentiments through videos",
-        "url_m": "https://raw.githubusercontent.com/kalpeshpadshala/ads_icon/master/com.xstudio.videoeditor.videomaker.fx.jpg"
-      },
-      {
-        "id": "49658307537",
-        "title": "Recover Deleted Messages",
-        "app_id": "com.messagebackup.recover.deleted.message",
-        "description": "Whatsapp Recovery is one of the best SMS Recovery App which provide you the function to restore or undelete messages",
-        "url_m": "https://raw.githubusercontent.com/kalpeshpadshala/ads_icon/master/com.messagebackup.recover.deleted.message.jpg"
+        "title": "UC Vault",
+        "app_id": "com.filevault.privary",
+        "description": "Since the dawn of time, solitary lovers (more accurately, lusters) have kept the erotic spark alive by sexting.",
+        "url_m": "https://jkcdns.sgp1.cdn.digitaloceanspaces.com/static/gallery_ads/icon/com.filevault.privary.png"
       },
       {
         "id": "49657491878",
-        "title": "Zip, unzip & RAR File Extractor",
-        "app_id": "com.zipunzipfile.zipopener.zipfileextractor",
-        "description": "WinZip is the leading application, along with WinRar, in the world of file compressors",
-        "url_m": "https://raw.githubusercontent.com/kalpeshpadshala/ads_icon/master/com.zipunzipfile.zipopener.zipfileextractor.jpg"
+        "title": "Slow Motion Editor",
+        "app_id": "com.slow.motion.editor.camera",
+        "description": "Slow motion editor is Slow Motion Video or Slow Motion Camera to Create awesome videos with Fast Motion, Slow Motion and Reverse Video edits!",
+        "url_m": "https://jkcdns.sgp1.cdn.digitaloceanspaces.com/static/gallery_ads/icon/com.slow.motion.editor.camera.png"
       },
       {
         "id": "49658307702",
-        "title": "Period Tracker for Women",
-        "app_id": "com.periodcycle.monthtracker.monthcalendar",
-        "description": "Plan for your next vacation, or just next week with our simple Period Calculator!",
-        "url_m": "https://raw.githubusercontent.com/kalpeshpadshala/ads_icon/master/com.periodcycle.monthtracker.monthcalendar.png",
+        "title": "Face up - Face Editor",
+        "app_id": "com.secretapplock.funnyselfie.camera",
+        "description": "Face up, the cool funny Live camera, gender swap with crazy & funny effects of Lens.",
+        "url_m": "https://jkcdns.sgp1.cdn.digitaloceanspaces.com/static/gallery_ads/icon/com.secretapplock.funnyselfie.camera.png",
         "rating": "4.6"
       }
     ],
     "games": [
       {
         "id": "47078507734",
-        "title": "Blast the Cubes",
-        "app_id": "com.toy.crush.king.master",
-        "description": "Welcome to the bedazzling world of Cube Blast Puzzle Game",
-        "url_m": "https://raw.githubusercontent.com/kalpeshpadshala/ads_icon/master/com.toy.crush.king.master.png"
+        "title": "Word Attack",
+        "app_id": "com.word.attack.word.swipe",
+        "description": "Best Word Attack search puzzle",
+        "url_m": "https://jkcdns.sgp1.cdn.digitaloceanspaces.com/static/gallery_ads/icon/com.word.attack.word.swipe.png"
       },
       {
         "id": "47868006821",
-        "title": "Word Stack",
-        "app_id": "com.word.attack.word.swipe",
-        "description": "Best Word Attack search puzzle",
-        "url_m": "https://raw.githubusercontent.com/kalpeshpadshala/ads_icon/master/com.word.attack.word.swipe.png"
+        "title": "Happy Eyes",
+        "app_id": "com.happy.glass.happy.eyes",
+        "description": "Draw lines is a basic physics game.",
+        "url_m": "https://jkcdns.sgp1.cdn.digitaloceanspaces.com/static/gallery_ads/icon/com.smart.glass.draw.line.png"
       },
       {
         "id": "47078507864",
-        "title": "Space Shooter",
-        "app_id": "com.space.shooter.galaxy.attack",
-        "description": "Space Shooting Games Free and Aliensshooter Spaceship Game",
-        "url_m": "https://raw.githubusercontent.com/kalpeshpadshala/ads_icon/master/com.space.shooter.galaxy.attack.jpg"
+        "title": "Candy Bomb Blast",
+        "app_id": "com.candybomb.blast",
+        "description": "Candy Bomb Blast Welcome to the paradise of sweet candies!",
+        "url_m": "https://jkcdns.sgp1.cdn.digitaloceanspaces.com/static/gallery_ads/icon/com.candybomb.blast.png"
       },
       {
         "id": "47868007151",
-        "title": "Smart Glass",
-        "app_id": "com.smart.glass.draw.line",
-        "description": "Draw lines is a basic physics game.",
-        "url_m": "https://raw.githubusercontent.com/kalpeshpadshala/ads_icon/master/com.smart.glass.draw.line.jpg"
+        "title": "Brain Test - Easy Game & Tricky Mind Puzzle",
+        "app_id": "com.brain.out.tricky.puzzles",
+        "description": "SUPER BRAIN is a new puzzle game which may break common sense.",
+        "url_m": "https://jkcdns.sgp1.cdn.digitaloceanspaces.com/static/gallery_ads/icon/com.brain.out.tricky.puzzles.png"
       },
       {
         "id": "33990655728",
-        "title": "Slideshow Maker",
-        "app_id": "com.music.video.maker",
-        "description": "Best Video Editor App on Android is Slideshow - Video Status Maker for MV Master.",
-        "url_m": "https://raw.githubusercontent.com/kalpeshpadshala/ads_icon/master/com.music.video.maker.png"
+        "title": "Ludo Power",
+        "app_id": "com.power.ludo.star",
+        "description": "Ludo Power is an online ludo game for two to four players & ludo offline game",
+        "url_m": "https://jkcdns.sgp1.cdn.digitaloceanspaces.com/custom/20201230/5fec0dfb1c42bSXLHjHeARn.png"
       },
       {
         "id": "47868007241",
-        "title": "Puzzle Express",
-        "app_id": "com.fast.express.train.block.puzzle",
-        "description": "Puzzle Express - Play free Puzzle Express game online.",
-        "url_m": "https://raw.githubusercontent.com/kalpeshpadshala/ads_icon/master/com.fast.express.train.block.puzzle.png"
+        "title": "Kill The Ravan",
+        "app_id": "com.vijayadashmi.game",
+        "description": "Ravana is a character in the Hindu epic Ramayana where he is depicted as the Rakshasa king of Lanka.",
+        "url_m": "https://jkcdns.sgp1.cdn.digitaloceanspaces.com/static/gallery_ads/icon/com.vijayadashmi.game.png"
       },
       {
         "id": "33990656518",
-        "title": "Magic Diamond",
-        "app_id": "com.magic.diamond.dash",
-        "description": "Bedazzling world of Magic Diamond matching games.",
-        "url_m": "https://raw.githubusercontent.com/kalpeshpadshala/ads_icon/master/com.magic.diamond.dash.jpg"
-      },
-      {
-        "id": "47815756632",
-        "title": "Candy Bomb Blast",
-        "app_id": "com.candybomb.blast",
-        "description": "Candy Bomb Blast donut match 3 games new for free now.",
-        "url_m": "https://raw.githubusercontent.com/kalpeshpadshala/ads_icon/master/com.candybomb.blast.jpg"
-      },
-      {
-        "id": "33990657248",
-        "title": "Bow And Arrow",
-        "app_id": "com.balloons.bow.game",
-        "description": "Pop Balloons with bow &amp; arrow game.",
-        "url_m": "https://raw.githubusercontent.com/kalpeshpadshala/ads_icon/master/com.balloons.bow.game.jpg"
+        "title": "Draw it - Draw One Part",
+        "app_id": "com.drawline.missingonepart",
+        "description": " Draw One Part a puzzle game with a goal to to motivate the imagination.",
+        "url_m": "https://jkcdns.sgp1.cdn.digitaloceanspaces.com/static/gallery_ads/icon/com.drawline.missingonepart.png"
       }
     ]
   }
