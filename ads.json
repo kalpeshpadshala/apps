@@ -2,14 +2,6 @@
   "data": {
     "slider": [
       {
-        "id": "40930666873",
-        "title": "Edit on PDF",
-        "app_id": "com.amazing.messangerlock",
-        "description": "Edit on PDF Convert and create PDF from various types of files.",
-        "url_m": "https://jkcdns.sgp1.cdn.digitaloceanspaces.com/static/gallery_ads/icon/com.amazing.messangerlock.png",
-        "rating": "4.6"
-      },
-      {
         "id": "40930660413",
         "title": "Messages",
         "app_id": "com.messagesgo.messanger",
@@ -32,14 +24,6 @@
         "description": "Use Notes to capture a quick thought, create checklists, sketch ideas, and more.",
         "url_m": "https://jkcdns.sgp1.cdn.digitaloceanspaces.com/static/gallery_ads/icon/com.s8notesdownloadpro.app.png",
         "rating": "4.6"
-      },
-      {
-        "id": "47897122181",
-        "title": "Password manager",
-        "app_id": "com.my.password.manager",
-        "description": "one password app for android is the world's best and most downloaded password manager",
-        "url_m": "https://jkcdns.sgp1.cdn.digitaloceanspaces.com/static/gallery_ads/icon/com.my.password.manager.png",
-        "rating": "4.6"
       }
     ],
     "apps": [
@@ -49,13 +33,6 @@
         "app_id": "com.photo.maker.hd.camera",
         "description": "Professional HD Camera Pro is a best fully professional featured free Camera app",
         "url_m": "https://jkcdns.sgp1.cdn.digitaloceanspaces.com/static/gallery_ads/icon/com.photo.maker.hd.camera.png"
-      },
-      {
-        "id": "47868006931",
-        "title": "Password manager",
-        "app_id": "com.my.password.manager",
-        "description": "one password app for android is the world's best and most downloaded password manager",
-        "url_m": "https://jkcdns.sgp1.cdn.digitaloceanspaces.com/static/gallery_ads/icon/com.my.password.manager.png"
       },
       {
         "id": "32923801937",
@@ -77,20 +54,6 @@
         "app_id": "com.music.video.maker",
         "description": "Best Video Editor App on Android is Slideshow - Video Status Maker for MV Master.",
         "url_m": "https://jkcdns.sgp1.cdn.digitaloceanspaces.com/static/gallery_ads/icon/com.music.video.maker.png"
-      },
-      {
-        "id": "32923802897",
-        "title": "Account Balance Check",
-        "app_id": "com.balancecheck.allbankbalanceinquiry.balancechecker",
-        "description": "Check Balance: Bank Account Balance Check.",
-        "url_m": "https://jkcdns.sgp1.cdn.digitaloceanspaces.com/static/gallery_ads/icon/com.balancecheck.allbankbalanceinquiry.balancechecker.png"
-      },
-      {
-        "id": "33990657048",
-        "title": "Contacts",
-        "app_id": "com.universal.mycontacts",
-        "description": "A contact manager is a android app program that enables users to easily store and find contact information.",
-        "url_m": "https://jkcdns.sgp1.cdn.digitaloceanspaces.com/static/gallery_ads/icon/com.universal.mycontacts.png"
       },
       {
         "id": "49657504403",
@@ -131,13 +94,6 @@
         "url_m": "https://jkcdns.sgp1.cdn.digitaloceanspaces.com/static/gallery_ads/icon/com.word.attack.word.swipe.png"
       },
       {
-        "id": "47868006821",
-        "title": "Happy Eyes",
-        "app_id": "com.happy.glass.happy.eyes",
-        "description": "Draw lines is a basic physics game.",
-        "url_m": "https://jkcdns.sgp1.cdn.digitaloceanspaces.com/static/gallery_ads/icon/com.smart.glass.draw.line.png"
-      },
-      {
         "id": "47078507864",
         "title": "Candy Bomb Blast",
         "app_id": "com.candybomb.blast",
@@ -150,13 +106,6 @@
         "app_id": "com.brain.out.tricky.puzzles",
         "description": "SUPER BRAIN is a new puzzle game which may break common sense.",
         "url_m": "https://jkcdns.sgp1.cdn.digitaloceanspaces.com/static/gallery_ads/icon/com.brain.out.tricky.puzzles.png"
-      },
-      {
-        "id": "33990655728",
-        "title": "Ludo Power",
-        "app_id": "com.power.ludo.star",
-        "description": "Ludo Power is an online ludo game for two to four players & ludo offline game",
-        "url_m": "https://jkcdns.sgp1.cdn.digitaloceanspaces.com/custom/20201230/5fec0dfb1c42bSXLHjHeARn.png"
       },
       {
         "id": "47868007241",
